@@ -10,6 +10,8 @@
 # Usage
 - After running "npm start" in your terminal you should now be able to run the application using the localhost in your browser. If you wish to continue using the app offline you can simply click "install" located at the top right of the application
 
+- You can use this app at https://shielded-harbor-92300.herokuapp.com/
+
 ![alt text](./Assets/00-demo.gif)
 
 # Credits
